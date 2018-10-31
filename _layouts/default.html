@@ -33,7 +33,7 @@
 		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
 		})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
-		ga('create', 'UA-26244371-2', 'bedford.io');
+		ga('create', 'UA-26244371-2', 'schaeferlab.io');
 		ga('send', 'pageview');
 
 	</script>
@@ -61,17 +61,17 @@
 					</button>
 					{% if page.categories.first != 'home' %}					
 					<object class="logo navbar-brand" data="/images/logo.svg" type="image/svg+xml"></object>
-					<a class="navbar-brand" href="/">bedford lab</a>
+					<a class="navbar-brand" href="/">schaefer lab</a>
 					{% endif %}
 				</div>
 				<div class="collapse navbar-collapse" id="navbar-collapse-element">
 					<ul class="nav navbar-nav navbar-right">
-						{% if page.categories.first == 'blog' %}
+						{% if page.categories.first == 'research' %}
 						<li class="active">
 						{% else %}
 						<li>
 						{% endif %}
-						<a href="/blog/">blog</a>
+						<a class="off" href="/research/">research</a>
 						</li>
 						{% if page.categories.first == 'papers' %}
 						<li class="active">
@@ -79,13 +79,7 @@
 						<li>
 						{% endif %}
 						<a href="/papers/">papers</a>
-						</li>
-						{% if page.categories.first == 'projects' %}
-						<li class="active">
-						{% else %}
-						<li>
-						{% endif %}
-						<a href="/projects/">projects</a></li>	  
+						</li>  
 						{% if page.categories.first == 'team' %}
 						<li class="active">
 						{% else %}

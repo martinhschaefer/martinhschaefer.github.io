@@ -1,5 +1,5 @@
-name: Bedford Lab Research
-description: Science updates on evolution, epidemiology and immunology from the Bedford lab at the Fred Hutch
+name: Schaefer Lab Research
+description: Schaefer lab at the IEO
 url: http://bedford.io
 
 markdown: redcarpet
@@ -97,4 +97,4 @@ projects:
   - blab/roka
   - blab/mumps-seq
   - blab/dengue-antigenic-dynamics
-  - blab/zika-colombia  
+  - blab/zika-colombia
