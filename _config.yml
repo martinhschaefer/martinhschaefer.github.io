@@ -1,10 +1,12 @@
 name: Schaefer Lab Research
 description: Schaefer lab at the IEO
-url: http://schaeferlab.org
+url: martinhschaefer.github.io/
 
-markdown: redcarpet
+markdown: kramdown
 permalink: /:categories/:title/
 future: true
+
+BASE_PATH : false
 
 redcarpet:
   extensions:
