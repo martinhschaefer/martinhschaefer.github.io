@@ -4,7 +4,7 @@ title: Gökçe Senger
 position: Graduate student
 handle: trvrb
 email: gokcesenger@gmail.com
-image: /images/team/gokce_senger.jpg
+image: /images/team/gokce_senger_hp.jpg
 ---
 
 
