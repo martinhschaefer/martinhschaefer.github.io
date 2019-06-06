@@ -4,7 +4,7 @@ title: Danilo Cagnina
 position: Graduate student
 handle: trvrb
 email: cagnina.danilo@outlook.com
-image: /images/team/danilo.JPG
+image: /images/team/danilo_hp.JPG
 ---
 
 
