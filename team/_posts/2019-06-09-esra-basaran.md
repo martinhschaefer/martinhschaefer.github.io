@@ -5,6 +5,7 @@ position: Summer intern
 handle: trvrb
 email: esra.basaran@metu.edu.tr
 image: /images/team/esra_basaran_hp.jpeg
+alumni: true
 ---
 
 
