@@ -1,7 +1,7 @@
 ---
 layout: member
 title: Danilo Cagnina
-position: Graduate student
+position: Bioinformatician
 handle: trvrb
 email: cagnina.danilo@outlook.com
 image: /images/team/danilo_hp.JPG
