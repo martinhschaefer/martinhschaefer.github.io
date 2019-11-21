@@ -1,7 +1,7 @@
 ---
 layout: member
 title: Richard Heery
-position: Graduate student
+position: PhD student
 handle: trvrb
 email: rheery@tcd.ie
 image: /images/team/richard_heery_hp.jpg
