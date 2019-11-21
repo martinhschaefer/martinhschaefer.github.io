@@ -1,7 +1,7 @@
 ---
 layout: member
 title: Gökçe Senger
-position: Graduate student
+position: PhD student
 handle: trvrb
 email: gokcesenger@gmail.com
 image: /images/team/gokce_senger_hp.jpg
