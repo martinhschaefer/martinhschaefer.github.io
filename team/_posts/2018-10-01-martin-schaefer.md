@@ -3,6 +3,7 @@ layout: member
 title: Martin Schaefer
 position: Principal investigator
 email: martin.schaefer@ieo.it
+twitter: MartinHSchaefer
 github: martinhschaefer
 scholar: W63WlaoAAAAJ
 image: /images/team/martin_schaefer.jpg
