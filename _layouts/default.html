@@ -85,6 +85,12 @@
 						<li>
 						{% endif %}
 						<a href="/team/">Team</a></li>	  	  
+						{% if page.categories.first == 'join' %}
+						<li class="active">
+						{% else %}
+						<li>
+						{% endif %}
+						<a href="/misc/join/">Join</a></li>	  	  
 					</ul>
 				</div>
 			</div>
