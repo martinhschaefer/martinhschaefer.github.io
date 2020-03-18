@@ -2,7 +2,7 @@
 layout: paper
 title: "A network of epigenetic modifiers and DNA repair genes controls tissue-specific copy number alteration preference"
 image: /images/papers/cramer-CNA.png
-authors: Cramer, Dina; Serrano, Luis; Schaefer, Martin H
+authors: Cramer, Dina; Serrano, Luis; Schaefer, Martin H.
 year: 2016
 ref: Cramer et al. 2016. eLife.
 journal: "eLife,5,e16519"
