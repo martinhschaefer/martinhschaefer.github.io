@@ -2,7 +2,7 @@
 layout: paper
 title: "Cell type-specific properties and environment shape tissue specificity of cancer genes"
 image: /images/papers/schaefer-tissue.png
-authors: Schaefer, Martin H; Serrano, Luis
+authors: Schaefer, Martin H; Serrano, Luis.
 year: 2016
 ref: Schaefer and Serrano. 2016. Scientific Reports.
 journal: "Scientific reports,6,20707."
