@@ -2,7 +2,7 @@
 layout: paper
 title: "Negative selection in tumor genome evolution acts on essential cellular functions and the immunopeptidome"
 image: /images/papers/zapata-negative-selection.png
-authors: Zapata, Luis; Pich, Oriol; Serrano, Luis; Kondrashov, Fyodor A; Ossowski, Stephan; Schaefer, Martin H
+authors: Zapata, Luis; Pich, Oriol; Serrano, Luis; Kondrashov, Fyodor A; Ossowski, Stephan; Schaefer, Martin H.
 year: 2018
 ref: Zapata et al. 2018. Genome Biology.
 journal: "Genome Biology. 19,1,67."
