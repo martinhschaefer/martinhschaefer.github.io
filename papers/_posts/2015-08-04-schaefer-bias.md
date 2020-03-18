@@ -2,7 +2,7 @@
 layout: paper
 title: "Correcting for the study bias associated with protein–protein interaction measurements reveals differences between protein degree distributions from different cancer types"
 image: /images/papers/schaefer-bias.png
-authors: Schaefer, Martin H; Serrano, Luis; Andrade-Navarro, Miguel A
+authors: Schaefer, Martin H; Serrano, Luis; Andrade-Navarro, Miguel A.
 year: 2015
 ref: Schaefer et al. 2015. Frontiers in Genetics.
 journal: "Frontiers in genetics,6,260."
