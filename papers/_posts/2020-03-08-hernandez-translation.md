@@ -2,9 +2,9 @@
 layout: paper
 title: "Translational efficiency across healthy and tumor tissues is proliferation-related"
 image: /images/papers/hernandez-translation.png
-authors: Hernandez‐Alias, Xavier; Benisty, Hannah; Schaefer, Martin H; Serrano, Luis
+authors: Hernandez‐Alias, Xavier; Benisty, Hannah; Schaefer, Martin H; Serrano, Luis.
 year: 2020
-ref: Hernandez-Alias et al. 2020. MSB.
+ref: Hernandez-Alias et al. 2020. Molecular Systems Biology.
 journal: "Molecular Systems Biology"
 pdf: /pdfs/papers/hernandez-translation.pdf
 doi: doi.org/10.15252/msb.20199275
