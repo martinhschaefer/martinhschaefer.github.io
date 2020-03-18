@@ -2,7 +2,7 @@
 layout: paper
 title: "Tissue-specific DNA methylation loss during ageing and carcinogenesis is linked to chromosome structure, replication timing and cell division rates"
 image: /images/papers/dmitrijeva-methylation.png
-authors: Dmitrijeva, Marija; Ossowski, Stephan; Serrano, Luis; Schaefer, Martin H
+authors: Dmitrijeva, Marija; Ossowski, Stephan; Serrano, Luis; Schaefer, Martin H.
 year: 2018
 ref: Dmitrijeva et al. 2018. NAR.
 journal: "Nucleic acids research. gky498."
