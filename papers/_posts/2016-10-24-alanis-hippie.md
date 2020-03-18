@@ -2,7 +2,7 @@
 layout: paper
 title: "HIPPIE v2. 0: enhancing meaningfulness and reliability of protein–protein interaction networks"
 image: /images/papers/alanis-hippie.png
-authors: Alanis-Lobato, Gregorio; Andrade-Navarro, Miguel A; Schaefer, Martin H
+authors: Alanis-Lobato, Gregorio; Andrade-Navarro, Miguel A; Schaefer, Martin H.
 year: 2016
 ref: Alanis-Lobato et al. 2016. NAR.
 journal: "Nucleic Acids Research,6"
