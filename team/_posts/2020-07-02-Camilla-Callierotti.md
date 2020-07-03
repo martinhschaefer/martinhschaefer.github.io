@@ -4,7 +4,7 @@ title: Camilla Callierotti
 position: summer student
 handle: trvrb
 email: 2238809c@student.gla.ac.uk
-image: /images/team/camilla.jpg
+image: /images/team/camilla_hp.jpg
 ---
 
 
