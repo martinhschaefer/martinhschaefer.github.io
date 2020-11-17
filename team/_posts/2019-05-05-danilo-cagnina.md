@@ -1,7 +1,7 @@
 ---
 layout: member
 title: Danilo Cagnina
-position: Bioinformatician
+position: PhD student
 handle: trvrb
 email: cagnina.danilo@outlook.com
 image: /images/team/danilo_hp.JPG
@@ -16,4 +16,4 @@ I pursued my master’s thesis at the Centre for Genomic Regulation in Barcelona
 
 I did a five months traineeship at the Joint Research Centre (JRC) (Knowledge for Health & Consumer Safety unit), where my key responsibility consisted of in-silico assessing Genetically Modified (GM) sequence information (NGS and Sanger data) and verifying its compliance with the EU Regulation No 503/2013.
 
-At Schaefer’s lab I will focus on the interactions between microbes, the immune system and cancer cells. We want to use metagenomics data to identify mechanisms by which the microbiome manipulates the immune system leading to an immune escape of the cancer. 
+At Martin's lab, I focus on machine learning methods that help clinicians in fine-tuning tumor diagnosis and prognosis. For instance, I am implementing a tool able to identify the tissue of origin of different cancer types by looking at gene expression profile. This proves useful whenever the true origin of cancer cells is unknown (e.g. cancer of unknown primary, circulating tumor cells, and mislabeled cell lines).
