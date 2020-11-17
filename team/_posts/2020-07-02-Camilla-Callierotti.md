@@ -5,6 +5,7 @@ position: Summer intern
 handle: trvrb
 email: 2238809c@student.gla.ac.uk
 image: /images/team/camilla_hp.jpg
+alumni: true
 ---
 
 
