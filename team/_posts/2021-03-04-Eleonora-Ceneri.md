@@ -1,7 +1,7 @@
 ---
 layout: member
 title: Eleonora Ceneri
-position: intern
+position: Intern
 handle: trvrb
 image: /images/team/eleonora.jpg
 ---
