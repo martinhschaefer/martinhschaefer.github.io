@@ -6,7 +6,7 @@ email: martin.schaefer@ieo.it
 twitter: MartinHSchaefer
 github: martinhschaefer
 scholar: W63WlaoAAAAJ
-image: /images/team/martin_schaefer.jpg
+image: /images/team/martin_hp.jpg
 ---
 
 I'm group leader at the [European Institute of Oncology](www.ieo.it) in the [Department of Experimental Oncology](https://www.ieo.it/it/ricerca/Ricerca-di-base/Dipartimento-di-Oncologia-Sperimentale/) and assistant professor at the [European School of Molecular Medicine](http://www.semm.it/). 
