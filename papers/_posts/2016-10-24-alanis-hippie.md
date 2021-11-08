@@ -7,7 +7,7 @@ year: 2016
 ref: Alanis-Lobato et al. 2016. NAR.
 journal: "Nucleic Acids Research,6"
 pdf: /pdfs/papers/alanis-hippie.pdf
-doi: 10.1093/nar/gkw985
+doi: doi.org/10.1093/nar/gkw985
 ---
 
 # Abstract
