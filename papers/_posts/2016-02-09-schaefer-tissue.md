@@ -7,7 +7,7 @@ year: 2016
 ref: Schaefer and Serrano. 2016. Scientific Reports.
 journal: "Scientific reports,6,20707."
 pdf: /pdfs/papers/schaefer-tissue.pdf
-doi: 10.1038/srep20707
+doi: doi.org/10.1038/srep20707
 ---
 
 # Abstract
