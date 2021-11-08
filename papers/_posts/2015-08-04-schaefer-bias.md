@@ -7,7 +7,7 @@ year: 2015
 ref: Schaefer et al. 2015. Frontiers in Genetics.
 journal: "Frontiers in genetics,6,260."
 pdf: /pdfs/papers/schaefer-bias.pdf
-doi: 10.3389/fgene.2015.00260
+doi: doi.org/10.3389/fgene.2015.00260
 ---
 
 # Abstract
