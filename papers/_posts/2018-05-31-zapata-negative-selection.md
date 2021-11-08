@@ -7,7 +7,7 @@ year: 2018
 ref: Zapata et al. 2018. Genome Biology.
 journal: "Genome Biology. 19,1,67."
 pdf: /pdfs/papers/zapata-negative-selection.pdf
-doi: 10.1186/s13059-018-1434-0
+doi: doi.org/10.1186/s13059-018-1434-0
 ---
 
 # Abstract
