@@ -7,7 +7,7 @@ year: 2016
 ref: Cramer et al. 2016. eLife.
 journal: "eLife,5,e16519"
 pdf: /pdfs/papers/cramer-CNA.pdf
-doi: 10.7554/eLife.16519
+doi: doi.org/10.7554/eLife.16519
 ---
 
 # Abstract
