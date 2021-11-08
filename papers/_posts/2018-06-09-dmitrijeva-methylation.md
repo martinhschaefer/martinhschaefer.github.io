@@ -7,7 +7,7 @@ year: 2018
 ref: Dmitrijeva et al. 2018. NAR.
 journal: "Nucleic acids research. gky498."
 pdf: /pdfs/papers/dmitrijeva-methylation.pdf
-doi: 10.1093/nar/gky498
+doi: doi.org/10.1093/nar/gky498
 ---
 
 # Abstract
