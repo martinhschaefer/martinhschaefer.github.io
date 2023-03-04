@@ -7,7 +7,7 @@ year: 2022
 ref: Senger et al. 2022. eLife.
 journal: "eLife"
 pdf: /pdfs/papers/senger-aneuploidy.pdf
-doi:  https://doi.org/10.7554/eLife.75526
+doi:  doi.org/10.7554/eLife.75526
 ---
 
 # Abstract
