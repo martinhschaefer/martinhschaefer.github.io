@@ -7,7 +7,7 @@ year: 2023
 ref: Hernandez-Alias et al. 2023. Genome Biology.
 journal: "Genome Biology"
 pdf: /pdfs/papers/hernandez-custom.pdf
-doi:  https://doi.org/10.1186/s13059-023-02868-2
+doi:  doi.org/10.1186/s13059-023-02868-2
 ---
 
 # Abstract
