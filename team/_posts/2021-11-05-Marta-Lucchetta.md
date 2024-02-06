@@ -4,6 +4,8 @@ title: Marta Lucchetta
 position: Postdoc
 email: marta.lucchetta@ieo.it
 image: /images/team/foto_ML_hp.jpg
+alumni: true
+
 ---
 
 I am a postdoctoral researcher in the Schaefer group at the European Institute of Oncology (IEO).
