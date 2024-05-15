@@ -5,6 +5,7 @@ position: Postdoc
 handle: trvrb
 email: tiziano.dallavilla@gmail.com
 image: /images/team/tiziano_dallavilla.jpg
+alumni: true
 ---
 
 I am a postdoctoral researcher in the Schaefer group at the European Institute of Oncology (IEO). 
