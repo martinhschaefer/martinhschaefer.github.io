@@ -5,6 +5,7 @@ position: Master student
 handle: trvrb
 email: gokcesenger@gmail.com
 image: /images/team/laura_heiler_hp.jpg
+alumni: true
 ---
 
 
