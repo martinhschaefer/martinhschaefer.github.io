@@ -2,8 +2,7 @@
 layout: member
 title: Laura Heiler
 position: Master student
-handle: trvrb
-email: gokcesenger@gmail.com
+email: laura.heiler@hotmail.com
 image: /images/team/laura_heiler_hp.jpg
 alumni: true
 ---
