@@ -2,7 +2,6 @@
 layout: member
 title: Gaia Sambruni
 position: PhD student
-handle: trvrb
 email: gaia.sambruni@ieo.it
 image: /images/team/gaia_sambruni.jpg
 alumni: true
