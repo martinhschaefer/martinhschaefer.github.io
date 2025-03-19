@@ -5,6 +5,7 @@ position: PhD student
 handle: trvrb
 email: cagnina.danilo@outlook.com
 image: /images/team/danilo_hp.JPG
+alumni: true
 ---
 
 
