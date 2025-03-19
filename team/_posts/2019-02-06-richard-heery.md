@@ -2,9 +2,9 @@
 layout: member
 title: Richard Heery
 position: Postdoc
-handle: trvrb
 email: rheery@tcd.ie
 image: /images/team/richard_heery_hp.jpg
+alumni: true
 ---
 
 I am a graduate student in the Schaefer group at the European Institute of Oncology. 
