@@ -5,6 +5,7 @@ position: Master student
 handle: trvrb
 email: duccio.pagliai@studenti.unimi.it
 image: /images/team/duccio_pagliai_hp.jpg
+alumni: true
 ---
 
 
