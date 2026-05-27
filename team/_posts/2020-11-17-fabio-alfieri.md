@@ -4,6 +4,7 @@ title: Fabio Alfieri
 position: PhD student
 email: fabio.alfieri@ieo.it
 image: /images/team/fabio_hp.jpg
+alumni: true
 ---
 
 I am a PhD student at the European School of Molecular Medicine (SEMM) at the European Institute of Oncology (IEO) in Milan. I am currently enrolled in the System Medicine, Computational Biology program under the supervision of Martin Schaefer.
