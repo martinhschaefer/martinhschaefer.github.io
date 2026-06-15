@@ -1,7 +1,7 @@
 ---
 layout: member
 title: Francesco Battini
-position: Master student
+position: Predoc
 email: francesco.battini@ieo.it
 image: /images/team/francesco_hp.jpg
 alumni: false
