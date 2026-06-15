@@ -1,7 +1,7 @@
 ---
 layout: member
 title: Gabriele Oliveto
-position: Master student
+position: PhD student
 email: gabriele.oliveto@ieo.it
 image: /images/team/gabriele_hp.jpg
 alumni: false
