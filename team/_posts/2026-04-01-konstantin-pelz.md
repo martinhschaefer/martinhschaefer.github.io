@@ -4,6 +4,7 @@ title: Konstantin Pelz
 position: Visiting scientist
 email: KonstantinKasimir.Pelz@ieo.it
 image: /images/team/konstantin_hp.jpg
+alumni: true
 ---
 
 I am a Ph.D. student in the Data Science in Systems Biology at the TUM in Munich and am working on a project to expanding protein-protein interaction networks on the level of isoforms.

@@ -4,6 +4,7 @@ title: Alessandro Vitriolo
 position: PostDoc
 email: Alessandro.Vitriolo@ieo.it
 image: /images/team/alessandro_hp.jpg
+alumni: true
 ---
 
 Alessandro is a senior computational biologist, with a broad experience in -omics data integration and analysis. His main interest is to understand transcriptional regulation mechanism in health and disease, with a specific focus on the brain. Currently, he is working in the Schaefer Lab to develop machine learning and deep learning approaches which predict gene expression from epigenomic data to understand cancer evolution in brain tumors.
