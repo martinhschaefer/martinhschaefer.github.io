@@ -3,7 +3,7 @@ layout: member
 title: Sara Fiume
 position: PhD student
 email: sara.fiume@ieo.it
-image: /images/team/sara_hp.jpg
+image: /images/team/sara_2.0.jpg
 alumni: false
 
 ---
